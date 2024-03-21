@@ -1,0 +1,1 @@
+<img src="[URL_da_Imagem](https://i0.wp.com/studioghibli.com.br/wp-content/uploads/2020/06/Meu-Amigo-Totoro.jpg?fit=1200%2C657&ssl=1)https://i0.wp.com/studioghibli.com.br/wp-content/uploads/2020/06/Meu-Amigo-Totoro.jpg?fit=1200%2C657&ssl=1" alt="Texto Alternativo">
